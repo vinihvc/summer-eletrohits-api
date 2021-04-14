@@ -15,7 +15,7 @@ API que lista todas os albuns e músicas de todas a edições do Summer Eltrohit
       id: number
       name: string
       thumb: string
-      releaseDate: Date
+      releaseDate: string
       videoUrl: string
     }
   ```
@@ -24,9 +24,11 @@ API que lista todas os albuns e músicas de todas a edições do Summer Eltrohit
   ```javascript
     {
       id: number
+      albumId: number
       name: string
       singer: string
-      videoUrl: string
+      videoUrl: string,
+      order: number
     }
   ```
 

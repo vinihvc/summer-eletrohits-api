@@ -333,119 +333,119 @@ export default [
     albumId: 4,
     name: "Give A Lil' Love",
     singer: ' Bob Sinclar feat. Steve Edwards',
-    youtubeId: ''
+    youtubeId: 'zWxfZj6fUSI'
   },
   {
     id: 49,
     albumId: 4,
     name: 'Love Is Gone (Fred Rister & Joachim Garraud Remix)',
     singer: 'David Guetta',
-    youtubeId: ''
+    youtubeId: 'Yap2dh2k44'
   },
   {
     id: 50,
     albumId: 4,
     name: 'Stay Around (For This) (Delicious & Till West Remix)',
     singer: ' Milk & Sugar & Ayak pres. MS2',
-    youtubeId: ''
+    youtubeId: 'Roc2pirMTMg'
   },
   {
     id: 51,
     albumId: 4,
     name: 'Lovely',
     singer: ' Tommy Vee feat. Andrea T. Mendoza',
-    youtubeId: ''
+    youtubeId: 'KXkDOwkm1WY'
   },
   {
     id: 52,
     albumId: 4,
     name: 'I Wish You Would',
     singer: ' Martijn Ten Velden',
-    youtubeId: ''
+    youtubeId: 's8cVY1odeY'
   },
   {
     id: 53,
     albumId: 4,
     name: "Life Is Love (Nerio's Dubwork Remix)",
     singer: ' No Tone feat. Inusa Dawuda',
-    youtubeId: ''
+    youtubeId: 'Jls895rsP6g'
   },
   {
     id: 54,
     albumId: 4,
     name: 'Born Slippy',
     singer: ' DJ Joe K',
-    youtubeId: ''
+    youtubeId: '7X2W-41a2y0'
   },
   {
     id: 55,
     albumId: 4,
     name: 'Rise Up',
     singer: ' Yves Larock',
-    youtubeId: ''
+    youtubeId: 'Uu6ubD-8O48'
   },
   {
     id: 56,
     albumId: 4,
     name: 'Destination Calabria',
     singer: ' Alex Gaudino feat. Crystal Waters',
-    youtubeId: ''
+    youtubeId: 'Kq4OtRsdXls'
   },
   {
     id: 57,
     albumId: 4,
     name: "Everybody's Grooving",
     singer: ' House Boulevard',
-    youtubeId: ''
+    youtubeId: 'f58glfOCleY'
   },
   {
     id: 58,
     albumId: 4,
     name: 'Proper Education',
     singer: ' Eric Prydz feat. Floyd',
-    youtubeId: ''
+    youtubeId: 'CHyLwSmutGw'
   },
   {
     id: 59,
     albumId: 4,
     name: 'In The Dark (Dirty South Remix)',
     singer: ' DJ Tiësto feat. Christian Burns',
-    youtubeId: ''
+    youtubeId: 'L0NU3pTHwgY'
   },
   {
     id: 60,
     albumId: 4,
     name: 'Get Up (General Electric Remix)',
     singer: ' Global Deejays feat. Technotronic',
-    youtubeId: ''
+    youtubeId: 'ou2w1VIkwVI'
   },
   {
     id: 61,
     albumId: 4,
     name: 'Let Me Think About It',
     singer: ' Ida Corr vs. Fedde le Grand',
-    youtubeId: ''
+    youtubeId: '19WUwZYM7bM'
   },
   {
     id: 62,
     albumId: 4,
     name: 'Perfect (Exceeder)',
     singer: ' Mason vs. Princess Superstar',
-    youtubeId: ''
+    youtubeId: 'cXTgrHruvoo'
   },
   {
     id: 63,
     albumId: 4,
     name: 'You You You (Alex Gaudino & Jerma Extended)',
     singer: ' James Kakande',
-    youtubeId: ''
+    youtubeId: 'mQEkmWvCXbM'
   },
   {
     id: 64,
     albumId: 4,
     name: 'To Feel Your Body',
     singer: ' Hitz feat. Conroy Elis & Dominique Levack',
-    youtubeId: ''
+    youtubeId: '4CmTfwXJu5A'
   },
   {
     id: 65,

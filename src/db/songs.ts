@@ -101,238 +101,238 @@ export default [
     id: 15,
     albumId: 2,
     name: "Can't Get Over",
-    singer: ' Kasino',
+    singer: 'Kasino',
     youtubeId: '-wZl_ZhnVg4'
   },
   {
     id: 16,
     albumId: 2,
     name: 'What A Feeling',
-    singer: ' Global Deejays',
+    singer: 'Global Deejays',
     youtubeId: 'NzDXMTVUYBA'
   },
   {
     id: 17,
     albumId: 2,
     name: 'Axel F',
-    singer: ' Crazy Frog',
+    singer: 'Crazy Frog',
     youtubeId: 'k85mRPqvMbE'
   },
   {
     id: 18,
     albumId: 2,
     name: "The Killer's Song",
-    singer: ' Carolina Márquez',
+    singer: 'Carolina Márquez',
     youtubeId: '2onQZgar1Z0'
   },
   {
     id: 19,
     albumId: 2,
     name: 'So Many Times',
-    singer: ' Gadjo',
+    singer: 'Gadjo',
     youtubeId: 'H6mWxvCpgXc'
   },
   {
     id: 20,
     albumId: 2,
     name: "Lola's Theme",
-    singer: ' Shapeshifters',
+    singer: 'Shapeshifters',
     youtubeId: 'XcmE6ey4aZ0'
   },
   {
     id: 21,
     albumId: 2,
     name: 'Love Believer',
-    singer: ' Ivana Domenico',
+    singer: 'Ivana Domenico',
     youtubeId: 'uroe_Xj-XK0'
   },
   {
     id: 22,
     albumId: 2,
     name: 'Vidas Nuevas',
-    singer: ' Laura',
+    singer: 'Laura',
     youtubeId: 'asORVqvLvqU'
   },
   {
     id: 23,
     albumId: 2,
     name: 'Pon de Replay',
-    singer: ' Rihanna',
+    singer: 'Rihanna',
     youtubeId: 'IbqogLT2RDc'
   },
   {
     id: 24,
     albumId: 2,
     name: 'Summer Lovin`',
-    singer: ' Musikk feat. John Rock',
+    singer: 'Musikk feat. John Rock',
     youtubeId: 'ZQGLfvZz8Ng'
   },
   {
     id: 25,
     albumId: 2,
     name: 'Get Up',
-    singer: ' DJ Ross feat. Double You',
+    singer: 'DJ Ross feat. Double You',
     youtubeId: '9zCGbulTjjs'
   },
   {
     id: 26,
     albumId: 2,
     name: 'The World Is Mine',
-    singer: ' David Guetta',
+    singer: 'David Guetta',
     youtubeId: 'QSwilU0kJF0'
   },
   {
     id: 27,
     albumId: 2,
     name: "I Wish (Skazi's Remix)",
-    singer: ' Infected Mushroom',
+    singer: 'Infected Mushroom',
     youtubeId: 'ffHJbkwlz7M'
   },
   {
     id: 28,
     albumId: 2,
     name: 'Free',
-    singer: ' Inaya Gray',
+    singer: 'Inaya Gray',
     youtubeId: 'cbR9noYmP5k'
   },
   {
     id: 29,
     albumId: 2,
-    name: "Livin' On A Prayer (DJ Tom Hopkins Remix)",
-    singer: ' Dalimas',
+    name: "Livin'On A Prayer (DJ Tom Hopkins Remix)",
+    singer: 'Dalimas',
     youtubeId: 'oupyLOdcgOw'
   },
   {
     id: 30,
     albumId: 2,
     name: 'U Got The Luv',
-    singer: ' Soulfunkers',
+    singer: 'Soulfunkers',
     youtubeId: 'PvxIHaPwwEc'
   },
   {
     id: 31,
     albumId: 3,
     name: 'World, Hold On',
-    singer: ' Bob Sinclar feat. Steve Edwards',
+    singer: 'Bob Sinclar feat. Steve Edwards',
     youtubeId: 'XpdpW0z9xnQ'
   },
   {
     id: 32,
     albumId: 3,
     name: 'Your Body (Addy Van Remix)',
-    singer: ' Tom Novy feat. Michael Marshall',
+    singer: 'Tom Novy feat. Michael Marshall',
     youtubeId: 'o8VY-7qopSQ'
   },
   {
     id: 33,
     albumId: 3,
-    name: "Movin' On (Basto! Guitarra Mix)",
-    singer: ' Ian Van Dahl',
+    name: "Movin'On (Basto! Guitarra Mix)",
+    singer: 'Ian Van Dahl',
     youtubeId: '11z6PgsikaU'
   },
   {
     id: 34,
     albumId: 3,
     name: 'Shake It',
-    singer: ' Kasino',
+    singer: 'Kasino',
     youtubeId: '47gdnRfavuc'
   },
   {
     id: 35,
     albumId: 3,
     name: 'One Last Cry (Deep Lick Club Mix)',
-    singer: ' Marina Elali',
+    singer: 'Marina Elali',
     youtubeId: 'ibTRqwdUaN4'
   },
   {
     id: 36,
     albumId: 3,
     name: 'Shining Star (Gianluca Motta Remix)',
-    singer: ' Get Far feat. Sagi Rei',
+    singer: 'Get Far feat. Sagi Rei',
     youtubeId: '_N-AKsK4Y1w'
   },
   {
     id: 37,
     albumId: 3,
     name: 'You Gonna Want Me',
-    singer: ' Tiga',
+    singer: 'Tiga',
     youtubeId: 'PtwxWe7jl_c'
   },
   {
     id: 38,
     albumId: 3,
     name: 'Walking Away (Tocadisco Remix)',
-    singer: ' The Egg',
+    singer: 'The Egg',
     youtubeId: 'pnRycfG9sP4'
   },
   {
     id: 39,
     name: 'Same Man',
     albumId: 3,
-    singer: ' Till West & DJ Delicious',
+    singer: 'Till West & DJ Delicious',
     youtubeId: 'lnz5TN2SIHc'
   },
   {
     id: 40,
     albumId: 3,
     name: "It's Too Late (Dirty South Remix)",
-    singer: ' Evermore',
+    singer: 'Evermore',
     youtubeId: 'IewSEJnC7cM'
   },
   {
     id: 41,
     albumId: 3,
     name: 'Electrize',
-    singer: ' Komodor',
+    singer: 'Komodor',
     youtubeId: 'lzDBXqliywQ'
   },
   {
     id: 42,
     albumId: 3,
     name: 'Everytime We Touch',
-    singer: ' Cascada',
+    singer: 'Cascada',
     youtubeId: '4G6QDNC4jPs'
   },
   {
     id: 43,
     albumId: 3,
     name: 'Clap Your Hands',
-    singer: ' Ramada',
+    singer: 'Ramada',
     youtubeId: 'CZpOBTztmKE'
   },
   {
     id: 44,
     albumId: 3,
     name: 'Dirty Funk',
-    singer: ' Stereo Music',
+    singer: 'Stereo Music',
     youtubeId: 'IKg4DV8CXh0'
   },
   {
     id: 45,
     albumId: 3,
     name: 'Love At First Sight',
-    singer: ' Delicious',
+    singer: 'Delicious',
     youtubeId: '1_DvQC33HUo'
   },
   {
     id: 46,
     albumId: 3,
     name: 'Ibiza Vibes (Guitarra Mix Edit)',
-    singer: ' Paradise Island',
+    singer: 'Paradise Island',
     youtubeId: 'v_oLvWdM3rI'
   },
   {
     id: 47,
     albumId: 3,
     name: 'Love Generation (Extended Version)',
-    singer: ' Bob Sinclar feat. Steve Edwards',
+    singer: 'Bob Sinclar feat. Steve Edwards',
     youtubeId: 'WFiVuxUmCys'
   },
   {
     id: 48,
     albumId: 4,
-    name: "Give A Lil' Love",
-    singer: ' Bob Sinclar feat. Steve Edwards',
+    name: "Give A Lil'Love",
+    singer: 'Bob Sinclar feat. Steve Edwards',
     youtubeId: 'zWxfZj6fUSI'
   },
   {
@@ -346,371 +346,371 @@ export default [
     id: 50,
     albumId: 4,
     name: 'Stay Around (For This) (Delicious & Till West Remix)',
-    singer: ' Milk & Sugar & Ayak pres. MS2',
+    singer: 'Milk & Sugar & Ayak pres. MS2',
     youtubeId: 'Roc2pirMTMg'
   },
   {
     id: 51,
     albumId: 4,
     name: 'Lovely',
-    singer: ' Tommy Vee feat. Andrea T. Mendoza',
+    singer: 'Tommy Vee feat. Andrea T. Mendoza',
     youtubeId: 'KXkDOwkm1WY'
   },
   {
     id: 52,
     albumId: 4,
     name: 'I Wish You Would',
-    singer: ' Martijn Ten Velden',
+    singer: 'Martijn Ten Velden',
     youtubeId: 's8cVY1odeY'
   },
   {
     id: 53,
     albumId: 4,
     name: "Life Is Love (Nerio's Dubwork Remix)",
-    singer: ' No Tone feat. Inusa Dawuda',
+    singer: 'No Tone feat. Inusa Dawuda',
     youtubeId: 'Jls895rsP6g'
   },
   {
     id: 54,
     albumId: 4,
     name: 'Born Slippy',
-    singer: ' DJ Joe K',
+    singer: 'DJ Joe K',
     youtubeId: '7X2W-41a2y0'
   },
   {
     id: 55,
     albumId: 4,
     name: 'Rise Up',
-    singer: ' Yves Larock',
+    singer: 'Yves Larock',
     youtubeId: 'Uu6ubD-8O48'
   },
   {
     id: 56,
     albumId: 4,
     name: 'Destination Calabria',
-    singer: ' Alex Gaudino feat. Crystal Waters',
+    singer: 'Alex Gaudino feat. Crystal Waters',
     youtubeId: 'Kq4OtRsdXls'
   },
   {
     id: 57,
     albumId: 4,
     name: "Everybody's Grooving",
-    singer: ' House Boulevard',
+    singer: 'House Boulevard',
     youtubeId: 'f58glfOCleY'
   },
   {
     id: 58,
     albumId: 4,
     name: 'Proper Education',
-    singer: ' Eric Prydz feat. Floyd',
+    singer: 'Eric Prydz feat. Floyd',
     youtubeId: 'CHyLwSmutGw'
   },
   {
     id: 59,
     albumId: 4,
     name: 'In The Dark (Dirty South Remix)',
-    singer: ' DJ Tiësto feat. Christian Burns',
+    singer: 'DJ Tiësto feat. Christian Burns',
     youtubeId: 'L0NU3pTHwgY'
   },
   {
     id: 60,
     albumId: 4,
     name: 'Get Up (General Electric Remix)',
-    singer: ' Global Deejays feat. Technotronic',
+    singer: 'Global Deejays feat. Technotronic',
     youtubeId: 'ou2w1VIkwVI'
   },
   {
     id: 61,
     albumId: 4,
     name: 'Let Me Think About It',
-    singer: ' Ida Corr vs. Fedde le Grand',
+    singer: 'Ida Corr vs. Fedde le Grand',
     youtubeId: '19WUwZYM7bM'
   },
   {
     id: 62,
     albumId: 4,
     name: 'Perfect (Exceeder)',
-    singer: ' Mason vs. Princess Superstar',
+    singer: 'Mason vs. Princess Superstar',
     youtubeId: 'cXTgrHruvoo'
   },
   {
     id: 63,
     albumId: 4,
     name: 'You You You (Alex Gaudino & Jerma Extended)',
-    singer: ' James Kakande',
+    singer: 'James Kakande',
     youtubeId: 'mQEkmWvCXbM'
   },
   {
     id: 64,
     albumId: 4,
     name: 'To Feel Your Body',
-    singer: ' Hitz feat. Conroy Elis & Dominique Levack',
+    singer: 'Hitz feat. Conroy Elis & Dominique Levack',
     youtubeId: '4CmTfwXJu5A'
   },
   {
     id: 65,
     albumId: 5,
     name: "I Don't Know Why (Viale & DJ Ross Remix)",
-    singer: ' Moony',
-    youtubeId: ''
+    singer: 'Moony',
+    youtubeId: '4Q_NugNJLF0'
   },
   {
     id: 66,
     albumId: 5,
     name: 'Tomorrow Can Wait',
-    singer: ' David Guetta',
-    youtubeId: ''
+    singer: 'David Guetta',
+    youtubeId: 'dleSC-Rg8cA'
   },
   {
     id: 67,
     albumId: 5,
     name: 'Keep On Rising',
-    singer: ' Ian Carey feat. Michelle Shellers',
-    youtubeId: ''
+    singer: 'Ian Carey feat. Michelle Shellers',
+    youtubeId: 'KNT9kDbwocw'
   },
   {
     id: 68,
     albumId: 5,
     name: 'I Kissed a Girl (Jason Nevins Remix)',
-    singer: ' Katy Perry',
-    youtubeId: ''
+    singer: 'Katy Perry',
+    youtubeId: 'YYT_xhwQ5t8'
   },
   {
     id: 69,
     albumId: 5,
     name: 'All I Need',
     singer: 'Get Far feat. Sagi Rei',
-    youtubeId: ''
+    youtubeId: 'x7bMItpv8Hs'
   },
   {
     id: 70,
     albumId: 5,
     name: 'Set Me Free',
-    singer: ' House Boulevard feat. Samara',
-    youtubeId: ''
+    singer: 'House Boulevard feat. Samara',
+    youtubeId: 'fWdQhKtGJ4Y'
   },
   {
     id: 71,
     albumId: 5,
     name: 'Dance With Me (Houseshaker Remix)',
-    singer: ' Saint feat. MDP',
-    youtubeId: ''
+    singer: 'Saint feat. MDP',
+    youtubeId: 'db_Zuho_NLE'
   },
   {
     id: 72,
     albumId: 5,
     name: 'Children',
-    singer: ' Dave Darrel',
-    youtubeId: ''
+    singer: 'Dave Darrel',
+    youtubeId: '2Q5_OXPdrDU'
   },
   {
     id: 73,
     albumId: 5,
     name: 'Cry For You (Spencer & Hill Remix)',
-    singer: ' September',
-    youtubeId: ''
+    singer: 'September',
+    youtubeId: 'iLa0Q0uayBk'
   },
   {
     id: 74,
     albumId: 5,
     name: 'What A Wonderful World',
-    singer: ' Axwell & Bob Sinclar feat. Ron Carroll',
-    youtubeId: ''
+    singer: 'Axwell & Bob Sinclar feat. Ron Carroll',
+    youtubeId: 'bHTbvtTkzv0'
   },
   {
     id: 75,
     albumId: 5,
     name: 'Lose Control (DJ Tom Hopkins Remix)',
-    singer: ' Double You',
-    youtubeId: ''
+    singer: 'Double You',
+    youtubeId: 'PTGpDNWbSUA'
   },
   {
     id: 76,
     albumId: 5,
     name: 'Monday',
-    singer: ' Carlo Dallanese feat. Fábio Castro',
-    youtubeId: ''
+    singer: 'Carlo Dallanese feat. Fábio Castro',
+    youtubeId: '0N6bmZf_mkQ'
   },
   {
     id: 77,
     albumId: 5,
     name: 'After The Rain',
-    singer: ' Fedo Mora & Camurri',
-    youtubeId: ''
+    singer: 'Fedo Mora & Camurri',
+    youtubeId: 'lHn7620gEHs'
   },
   {
     id: 78,
     albumId: 5,
     name: 'Children Of The Sun (R.I.O. Remix)',
-    singer: ' Yanou',
-    youtubeId: ''
+    singer: 'Yanou',
+    youtubeId: 'y2LNR5_d6Wg'
   },
   {
     id: 79,
     albumId: 5,
     name: 'Shine On (Spencer & Hill Remix)',
-    singer: ' R.I.O.',
-    youtubeId: ''
+    singer: 'R.I.O.',
+    youtubeId: 'nO66gf2xydI'
   },
   {
     id: 80,
     albumId: 5,
     name: 'Turn The Tide (R.I.O. Remix)',
-    singer: ' Manian',
-    youtubeId: ''
+    singer: 'Manian',
+    youtubeId: 'jTHLfH85ne8'
   },
   {
     id: 81,
     albumId: 6,
     name: 'I Gotta Feeling',
-    singer: ' Black Eyed Peas',
+    singer: 'Black Eyed Peas',
     youtubeId: ''
   },
   {
     id: 82,
     albumId: 6,
     name: 'When Love Takes Over',
-    singer: ' David Guetta feat. Kelly Rowland',
+    singer: 'David Guetta feat. Kelly Rowland',
     youtubeId: ''
   },
   {
     id: 83,
     albumId: 6,
     name: 'Poker Face (Dave Audé Remix)',
-    singer: ' Lady Gaga',
+    singer: 'Lady Gaga',
     youtubeId: ''
   },
   {
     id: 84,
     albumId: 6,
     name: 'Hush Hush; Hush Hush (Dave Audé Remix)',
-    singer: ' The Pussycat Dolls',
+    singer: 'The Pussycat Dolls',
     youtubeId: ''
   },
   {
     id: 85,
     albumId: 6,
     name: 'Leave The World Behind',
-    singer: ' Swedish House Mafia & Laidback Luke feat. Deborah Cox',
+    singer: 'Swedish House Mafia & Laidback Luke feat. Deborah Cox',
     youtubeId: ''
   },
   {
     id: 86,
     albumId: 6,
     name: 'Let the Bass Kick in Miami Bitch',
-    singer: ' Chuckie vs. LMFAO',
+    singer: 'Chuckie vs. LMFAO',
     youtubeId: ''
   },
   {
     id: 87,
     albumId: 6,
     name: 'Infinity',
-    singer: ' Guru Josh Project',
+    singer: 'Guru Josh Project',
     youtubeId: ''
   },
   {
     id: 88,
     albumId: 6,
     name: 'Give It to Me',
-    singer: ' Alexxa',
+    singer: 'Alexxa',
     youtubeId: ''
   },
   {
     id: 89,
     albumId: 6,
     name: 'Fiesta Loca',
-    singer: ' Desaparecidos',
+    singer: 'Desaparecidos',
     youtubeId: ''
   },
   {
     id: 90,
     albumId: 6,
     name: 'Brand New Day',
-    singer: ' Filipe Guerra feat. Lorena Simpson',
+    singer: 'Filipe Guerra feat. Lorena Simpson',
     youtubeId: ''
   },
   {
     id: 91,
     albumId: 6,
     name: 'In The Air (Axwell Remix)',
-    singer: ' TV Rock feat. Rudy',
+    singer: 'TV Rock feat. Rudy',
     youtubeId: ''
   },
   {
     id: 92,
     albumId: 6,
     name: 'Sun Is Coming Out',
-    singer: ' DJ Memê',
+    singer: 'DJ Memê',
     youtubeId: ''
   },
   {
     id: 93,
     albumId: 6,
     name: 'Day & Night',
-    singer: ' Kid Cudi feat. The Crookers',
+    singer: 'Kid Cudi feat. The Crookers',
     youtubeId: ''
   },
   {
     id: 94,
     albumId: 6,
     name: 'S.O.S.',
-    singer: ' Ian Carey feat. Craig Smart',
+    singer: 'Ian Carey feat. Craig Smart',
     youtubeId: ''
   },
   {
     id: 95,
     albumId: 6,
     name: 'Destiny',
-    singer: ' DJ Tom Hopkins feat. Samara',
+    singer: 'DJ Tom Hopkins feat. Samara',
     youtubeId: ''
   },
   {
     id: 96,
     albumId: 6,
     name: 'I Feel So Free',
-    singer: ' Spyzer',
+    singer: 'Spyzer',
     youtubeId: ''
   },
   {
     id: 97,
     albumId: 7,
     name: 'One',
-    singer: ' Swedish House Mafia feat. Pharrell',
+    singer: 'Swedish House Mafia feat. Pharrell',
     youtubeId: ''
   },
   {
     id: 98,
     albumId: 7,
-    name: "Gettin' Over You",
-    singer: ' David Guetta feat. Fergie & LMFAO',
+    name: "Gettin'Over You",
+    singer: 'David Guetta feat. Fergie & LMFAO',
     youtubeId: ''
   },
   {
     id: 99,
     albumId: 7,
     name: 'California Gurls',
-    singer: ' Katy Perry feat. Snoop Dogg',
+    singer: 'Katy Perry feat. Snoop Dogg',
     youtubeId: ''
   },
   {
     id: 100,
     albumId: 7,
     name: "I'm In Love (I Wanna Do It)",
-    singer: ' Alex Gaudino',
+    singer: 'Alex Gaudino',
     youtubeId: ''
   },
   {
     id: 101,
     albumId: 7,
     name: 'Stereo Love (Molella Radio Edit)',
-    singer: ' Edward Maya & Vika Jigulina',
+    singer: 'Edward Maya & Vika Jigulina',
     youtubeId: ''
   },
   {
     id: 102,
     albumId: 7,
     name: "We No Speak Americano (Tu Vuò Fà L'Americano)",
-    singer: ' Yolanda Be Cool vs. Dcup',
+    singer: 'Yolanda Be Cool vs. Dcup',
     youtubeId: ''
   },
   {
@@ -724,35 +724,35 @@ export default [
     id: 104,
     albumId: 7,
     name: "Club Can't Handle Me",
-    singer: ' Flo Rida feat. David Guetta',
+    singer: 'Flo Rida feat. David Guetta',
     youtubeId: ''
   },
   {
     id: 105,
     albumId: 7,
     name: 'Not Giving Up On Love',
-    singer: ' Armim Van Buuren vs. Sophie Ellis-Bextor',
+    singer: 'Armim Van Buuren vs. Sophie Ellis-Bextor',
     youtubeId: ''
   },
   {
     id: 106,
     albumId: 7,
     name: 'Live It Up',
-    singer: ' Ali Pierre',
+    singer: 'Ali Pierre',
     youtubeId: ''
   },
   {
     id: 107,
     albumId: 7,
     name: "That's My Name",
-    singer: ' Akcent',
+    singer: 'Akcent',
     youtubeId: ''
   },
   {
     id: 108,
     albumId: 7,
     name: 'Summer Lie',
-    singer: ' Eliza G.',
+    singer: 'Eliza G.',
     youtubeId: ''
   },
   {
@@ -766,238 +766,238 @@ export default [
     id: 110,
     albumId: 7,
     name: 'Follow You',
-    singer: ' Desaparecidos',
+    singer: 'Desaparecidos',
     youtubeId: ''
   },
   {
     id: 111,
     albumId: 7,
     name: 'Release Me',
-    singer: ' Tv Rock & Zoe Badwi',
+    singer: 'Tv Rock & Zoe Badwi',
     youtubeId: ''
   },
   {
     id: 112,
     albumId: 7,
     name: 'Hot',
-    singer: ' Inna',
+    singer: 'Inna',
     youtubeId: ''
   },
   {
     id: 113,
     albumId: 7,
     name: "Hey Hey (DF's Attention Remix)",
-    singer: ' Dennis Ferrer',
+    singer: 'Dennis Ferrer',
     youtubeId: ''
   },
   {
     id: 114,
     albumId: 7,
     name: 'Falling for U',
-    singer: ' Mister Jam feat. Wanessa',
+    singer: 'Mister Jam feat. Wanessa',
     youtubeId: ''
   },
   {
     id: 115,
     albumId: 8,
     name: 'Save The World',
-    singer: ' Swedish House Mafia feat. John Martin',
+    singer: 'Swedish House Mafia feat. John Martin',
     youtubeId: ''
   },
   {
     id: 116,
     albumId: 8,
     name: 'Give Me Everything',
-    singer: ' Pitbull feat. Ne-Yo, Afrojack & Nayer',
+    singer: 'Pitbull feat. Ne-Yo, Afrojack & Nayer',
     youtubeId: ''
   },
   {
     id: 117,
     albumId: 8,
     name: 'Beautiful People',
-    singer: ' Chris Brown feat. Benny Benassi',
+    singer: 'Chris Brown feat. Benny Benassi',
     youtubeId: ''
   },
   {
     id: 118,
     albumId: 8,
     name: 'Take Over Control',
-    singer: ' Afrojack feat. Eva Simons',
+    singer: 'Afrojack feat. Eva Simons',
     youtubeId: ''
   },
   {
     id: 119,
     albumId: 8,
     name: 'Cry (Just A Little)',
-    singer: ' Bingo Players',
+    singer: 'Bingo Players',
     youtubeId: ''
   },
   {
     id: 120,
     albumId: 8,
     name: 'Made Of (Radio Edit)',
-    singer: ' Nause',
+    singer: 'Nause',
     youtubeId: ''
   },
   {
     id: 121,
     albumId: 8,
     name: 'Dynamite',
-    singer: ' Taio Cruz',
+    singer: 'Taio Cruz',
     youtubeId: ''
   },
   {
     id: 122,
     albumId: 8,
     name: 'Seek Bromance',
-    singer: ' Tim Berg',
+    singer: 'Tim Berg',
     youtubeId: ''
   },
   {
     id: 123,
     albumId: 8,
     name: 'Welcome To St. Tropez',
-    singer: ' DJ Antoine vs. Timati feat. Kalenna',
+    singer: 'DJ Antoine vs. Timati feat. Kalenna',
     youtubeId: ''
   },
   {
     id: 124,
     albumId: 8,
     name: 'I Wanna Go',
-    singer: ' Britney Spears',
+    singer: 'Britney Spears',
     youtubeId: ''
   },
   {
     id: 125,
     albumId: 8,
     name: 'You Make Me Feel',
-    singer: ' Cobra Starship feat. Sabi',
+    singer: 'Cobra Starship feat. Sabi',
     youtubeId: ''
   },
   {
     id: 126,
     albumId: 8,
     name: 'Mr. Saxobeat',
-    singer: ' Alexandra Stan',
+    singer: 'Alexandra Stan',
     youtubeId: ''
   },
   {
     id: 127,
     albumId: 8,
     name: 'Barbra Streisand',
-    singer: ' Duck Sauce',
+    singer: 'Duck Sauce',
     youtubeId: ''
   },
   {
     id: 128,
     albumId: 8,
     name: 'Walkin’ On Air (Burn)',
-    singer: ' Mister Jam feat. Ali Pierre & King TEF',
+    singer: 'Mister Jam feat. Ali Pierre & King TEF',
     youtubeId: ''
   },
   {
     id: 129,
     albumId: 8,
     name: 'What A Feeling',
-    singer: ' Alex Gaudino feat. Kelly Rowland',
+    singer: 'Alex Gaudino feat. Kelly Rowland',
     youtubeId: ''
   },
   {
     id: 130,
     albumId: 8,
     name: 'Got Me Going Over',
-    singer: ' Ask2Quit feat. Colonel Red',
+    singer: 'Ask2Quit feat. Colonel Red',
     youtubeId: ''
   },
   {
     id: 131,
     albumId: 8,
     name: 'Show Me',
-    singer: ' Jessica Sutta',
+    singer: 'Jessica Sutta',
     youtubeId: ''
   },
   {
     id: 132,
     albumId: 8,
     name: "Don't Wanna Go Home [sample: Show me Love]",
-    singer: ' Jason Derülo',
+    singer: 'Jason Derülo',
     youtubeId: ''
   },
   {
     id: 133,
     albumId: 9,
     name: "Let's Go",
-    singer: ' Calvin Harris feat. Ne-Yo',
+    singer: 'Calvin Harris feat. Ne-Yo',
     youtubeId: ''
   },
   {
     id: 134,
     albumId: 9,
     name: "Don't You Worry Child",
-    singer: ' Swedish House Mafia feat. John Martin',
+    singer: 'Swedish House Mafia feat. John Martin',
     youtubeId: ''
   },
   {
     id: 135,
     albumId: 9,
     name: "Don't Stop the Party",
-    singer: ' Pitbull feat. TJR',
+    singer: 'Pitbull feat. TJR',
     youtubeId: ''
   },
   {
     id: 136,
     albumId: 9,
     name: 'Calling (Lose My Mind)',
-    singer: ' Sebastian Ingrosso feat. Alesso & Ryan Tedder',
+    singer: 'Sebastian Ingrosso feat. Alesso & Ryan Tedder',
     youtubeId: ''
   },
   {
     id: 137,
     albumId: 9,
     name: 'Who',
-    singer: ' Tujamo & Plastik Funk',
+    singer: 'Tujamo & Plastik Funk',
     youtubeId: ''
   },
   {
     id: 138,
     albumId: 9,
     name: 'Golden People',
-    singer: ' Mister Jam feat. Jacq & King TEF',
+    singer: 'Mister Jam feat. Jacq & King TEF',
     youtubeId: ''
   },
   {
     id: 139,
     albumId: 9,
     name: "Can't Stop Me",
-    singer: ' Afrojack & Shermanology',
+    singer: 'Afrojack & Shermanology',
     youtubeId: ''
   },
   {
     id: 140,
     albumId: 9,
     name: 'How We Do (Party) - Juhola & Denavi Remix',
-    singer: ' Rita Ora',
+    singer: 'Rita Ora',
     youtubeId: ''
   },
   {
     id: 141,
     albumId: 9,
     name: 'Spectrum',
-    singer: ' Zedd feat. Matthew Koma',
+    singer: 'Zedd feat. Matthew Koma',
     youtubeId: ''
   },
   {
     id: 142,
     albumId: 9,
     name: 'Famous Before 5',
-    singer: ' R-Go feat. Nando Vedder',
+    singer: 'R-Go feat. Nando Vedder',
     youtubeId: ''
   },
   {
     id: 143,
     albumId: 9,
     name: 'One Day (Reckoning Song)',
-    singer: ' Asaf Avidan',
+    singer: 'Asaf Avidan',
     youtubeId: ''
   },
   {
@@ -1011,98 +1011,98 @@ export default [
     id: 145,
     albumId: 9,
     name: 'The Night Out',
-    singer: ' Martin Solveig',
+    singer: 'Martin Solveig',
     youtubeId: ''
   },
   {
     id: 146,
     albumId: 9,
     name: 'I Want You Back',
-    singer: ' DJ Joe K feat. Jerique Allan',
+    singer: 'DJ Joe K feat. Jerique Allan',
     youtubeId: ''
   },
   {
     id: 147,
     albumId: 9,
     name: 'Take You Higher',
-    singer: ' Goodwill & Hook N Sling',
+    singer: 'Goodwill & Hook N Sling',
     youtubeId: ''
   },
   {
     id: 148,
     albumId: 9,
     name: 'Ma Chérie',
-    singer: ' DJ Antoine feat. The Beat Shakers',
+    singer: 'DJ Antoine feat. The Beat Shakers',
     youtubeId: ''
   },
   {
     id: 149,
     albumId: 10,
     name: 'I Love It (Cobra Starship Remix)',
-    singer: ' Icona Pop feat. Charli XCX',
+    singer: 'Icona Pop feat. Charli XCX',
     youtubeId: ''
   },
   {
     id: 150,
     albumId: 10,
     name: 'Locked Out of Heaven',
-    singer: ' Bruno Mars',
+    singer: 'Bruno Mars',
     youtubeId: ''
   },
   {
     id: 151,
     albumId: 10,
     name: 'Sweet Nothing',
-    singer: ' Calvin Harris feat. Florence Welch',
+    singer: 'Calvin Harris feat. Florence Welch',
     youtubeId: ''
   },
   {
     id: 152,
     albumId: 10,
     name: 'This Is What It Feels Like',
-    singer: ' Armin Van Buuren feat. Trevor Guthrie',
+    singer: 'Armin Van Buuren feat. Trevor Guthrie',
     youtubeId: ''
   },
   {
     id: 153,
     albumId: 10,
     name: 'Never Say Goodbye',
-    singer: ' Hardwell & Dyro feat. Bright Lights',
+    singer: 'Hardwell & Dyro feat. Bright Lights',
     youtubeId: ''
   },
   {
     id: 154,
     albumId: 10,
     name: 'Summer Moonlight',
-    singer: ' Bob Sinclar feat. Bem Delay',
+    singer: 'Bob Sinclar feat. Bem Delay',
     youtubeId: ''
   },
   {
     id: 155,
     albumId: 10,
     name: 'Keep Running',
-    singer: ' Marcelo CIC feat. Benjamin K',
+    singer: 'Marcelo CIC feat. Benjamin K',
     youtubeId: ''
   },
   {
     id: 156,
     albumId: 10,
     name: 'No Place Like Home',
-    singer: ' Mync & Senadee',
+    singer: 'Mync & Senadee',
     youtubeId: ''
   },
   {
     id: 157,
     albumId: 10,
     name: 'Sunrise (Won’t Get Lost)',
-    singer: ' The Aston Shufle & Tommy Trash',
+    singer: 'The Aston Shufle & Tommy Trash',
     youtubeId: ''
   },
   {
     id: 158,
     albumId: 10,
     name: 'Alive',
-    singer: ' Krewella',
+    singer: 'Krewella',
     youtubeId: ''
   },
   {
@@ -1116,28 +1116,28 @@ export default [
     id: 160,
     albumId: 10,
     name: 'Call Me a Spaceman',
-    singer: ' Hardwell feat. Mitch Crown',
+    singer: 'Hardwell feat. Mitch Crown',
     youtubeId: ''
   },
   {
     id: 161,
     albumId: 10,
     name: 'Heartbeat',
-    singer: ' Mr. Jam feat. Chris Willis',
+    singer: 'Mr. Jam feat. Chris Willis',
     youtubeId: ''
   },
   {
     id: 162,
     albumId: 10,
     name: 'When I Turn Off The Lights',
-    singer: ' Cuti DJ feat. D’Twice',
+    singer: 'Cuti DJ feat. D’Twice',
     youtubeId: ''
   },
   {
     id: 163,
     albumId: 10,
     name: 'Warrior',
-    singer: ' Luciano Roffer, R-Go & Ester',
+    singer: 'Luciano Roffer, R-Go & Ester',
     youtubeId: ''
   },
   {
@@ -1151,595 +1151,595 @@ export default [
     id: 165,
     albumId: 10,
     name: 'Ready',
-    singer: ' Anthony Garcia',
+    singer: 'Anthony Garcia',
     youtubeId: ''
   },
   {
     id: 166,
     albumId: 11,
     name: 'Shot Me Down',
-    singer: ' David Guetta feat. Skylar Grey',
+    singer: 'David Guetta feat. Skylar Grey',
     youtubeId: ''
   },
   {
     id: 167,
     albumId: 11,
     name: 'Rather Be',
-    singer: ' Clean Bandit feat. Jess Glynne',
+    singer: 'Clean Bandit feat. Jess Glynne',
     youtubeId: ''
   },
   {
     id: 168,
     albumId: 11,
     name: 'A Sky Full of Stars',
-    singer: ' Avicii & Coldplay',
+    singer: 'Avicii & Coldplay',
     youtubeId: ''
   },
   {
     id: 169,
     albumId: 11,
     name: 'Dare You',
-    singer: ' Hardwell feat. Matthew Koma',
+    singer: 'Hardwell feat. Matthew Koma',
     youtubeId: ''
   },
   {
     id: 170,
     albumId: 11,
     name: 'Howl at the Moon',
-    singer: ' Stadiumx & Taylr Renne',
+    singer: 'Stadiumx & Taylr Renne',
     youtubeId: ''
   },
   {
     id: 171,
     albumId: 11,
     name: 'Show Me Love',
-    singer: ' Michael Mind Project',
+    singer: 'Michael Mind Project',
     youtubeId: ''
   },
   {
     id: 172,
     albumId: 11,
     name: 'Light It Up',
-    singer: ' DJ Antoine',
+    singer: 'DJ Antoine',
     youtubeId: ''
   },
   {
     id: 173,
     albumId: 11,
     name: 'We Are Free',
-    singer: ' Mister Jam feat. Johnny Franco',
+    singer: 'Mister Jam feat. Johnny Franco',
     youtubeId: ''
   },
   {
     id: 174,
     albumId: 11,
     name: 'Beautiful Daylight',
-    singer: ' Vee Brondi & Terri B!',
+    singer: 'Vee Brondi & Terri B!',
     youtubeId: ''
   },
   {
     id: 175,
     albumId: 11,
     name: 'Revolution (Audien Remix)',
-    singer: ' R3hab, Nervo & Ummet Ozcan',
+    singer: 'R3hab, Nervo & Ummet Ozcan',
     youtubeId: ''
   },
   {
     id: 176,
     albumId: 11,
     name: 'Wicked Wonderland',
-    singer: ' Martin Tungevaag',
+    singer: 'Martin Tungevaag',
     youtubeId: ''
   },
   {
     id: 177,
     albumId: 11,
     name: 'Celebrate Life',
-    singer: ' Cuti DJ feat. Marquinho Osócio',
+    singer: 'Cuti DJ feat. Marquinho Osócio',
     youtubeId: ''
   },
   {
     id: 178,
     albumId: 11,
     name: 'The Bass',
-    singer: ' Tom Hopkins & Anthony Garcia',
+    singer: 'Tom Hopkins & Anthony Garcia',
     youtubeId: ''
   },
   {
     id: 179,
     albumId: 11,
     name: 'We Were Young',
-    singer: ' DVBBS',
+    singer: 'DVBBS',
     youtubeId: ''
   },
   {
     id: 180,
     albumId: 12,
     name: 'Blame',
-    singer: ' Calvin Harris feat. John Newman',
+    singer: 'Calvin Harris feat. John Newman',
     youtubeId: ''
   },
   {
     id: 181,
     albumId: 12,
     name: 'Tremor',
-    singer: ' Dimitri Vegas & Like Mike feat. Martin Garrix',
+    singer: 'Dimitri Vegas & Like Mike feat. Martin Garrix',
     youtubeId: ''
   },
   {
     id: 182,
     albumId: 12,
     name: 'Intoxicated',
-    singer: ' Martin Solveig vs. GTA',
+    singer: 'Martin Solveig vs. GTA',
     youtubeId: ''
   },
   {
     id: 183,
     albumId: 12,
     name: 'Cheerleader (Felix Jaehn remix)',
-    singer: ' Omi',
+    singer: 'Omi',
     youtubeId: ''
   },
   {
     id: 184,
     albumId: 12,
     name: 'Runaway (U & I)',
-    singer: ' Galantis',
+    singer: 'Galantis',
     youtubeId: ''
   },
   {
     id: 185,
     albumId: 12,
     name: "Can't Stop Playing",
-    singer: ' Dr. Kucho! & Gregor Salto',
+    singer: 'Dr. Kucho! & Gregor Salto',
     youtubeId: ''
   },
   {
     id: 186,
     albumId: 12,
     name: 'Sally',
-    singer: ' Hardwell feat. Harrison',
+    singer: 'Hardwell feat. Harrison',
     youtubeId: ''
   },
   {
     id: 187,
     albumId: 12,
     name: 'Gold Skies (Tiësto Remix)',
-    singer: ' Sander Van Doorn, Martin Garrix & DVBBS feat. Alessia',
+    singer: 'Sander Van Doorn, Martin Garrix & DVBBS feat. Alessia',
     youtubeId: ''
   },
   {
     id: 188,
     albumId: 12,
     name: 'Bounce Generation',
-    singer: ' TJR & VINAI',
+    singer: 'TJR & VINAI',
     youtubeId: ''
   },
   {
     id: 189,
     albumId: 12,
     name: 'Prayer in C',
-    singer: ' Lilly Wood & The Prick and Robin Schulz',
+    singer: 'Lilly Wood & The Prick and Robin Schulz',
     youtubeId: ''
   },
   {
     id: 190,
     albumId: 12,
     name: 'Waves',
-    singer: ' Mr. Probz',
+    singer: 'Mr. Probz',
     youtubeId: ''
   },
   {
     id: 191,
     albumId: 12,
     name: 'Sweets (Soda Pop)',
-    singer: ' Fox Stevenson',
+    singer: 'Fox Stevenson',
     youtubeId: ''
   },
   {
     id: 192,
     albumId: 12,
     name: 'The Night',
-    singer: ' 3LAU & Nom de Strip feat. Estelle',
+    singer: '3LAU & Nom de Strip feat. Estelle',
     youtubeId: ''
   },
   {
     id: 193,
     albumId: 12,
     name: 'Virus (How About Now)',
-    singer: ' Martin Garrix & MOTi',
+    singer: 'Martin Garrix & MOTi',
     youtubeId: ''
   },
   {
     id: 194,
     albumId: 13,
     name: "Don't Let Me Down",
-    singer: ' The Chainsmokers feat. Daya',
+    singer: 'The Chainsmokers feat. Daya',
     youtubeId: ''
   },
   {
     id: 195,
     albumId: 13,
     name: 'In the Name of Love',
-    singer: ' Martin Garrix feat. Bebe Rexha',
+    singer: 'Martin Garrix feat. Bebe Rexha',
     youtubeId: ''
   },
   {
     id: 196,
     albumId: 13,
     name: 'Perfect Strangers',
-    singer: ' Jonas Blue feat. JP Cooper',
+    singer: 'Jonas Blue feat. JP Cooper',
     youtubeId: ''
   },
   {
     id: 197,
     albumId: 13,
     name: 'Give It All Up',
-    singer: ' WAO feat. Mikkel Solnado',
+    singer: 'WAO feat. Mikkel Solnado',
     youtubeId: ''
   },
   {
     id: 198,
     albumId: 13,
     name: 'Young Again',
-    singer: ' Hardwell feat. Chris Jones',
+    singer: 'Hardwell feat. Chris Jones',
     youtubeId: ''
   },
   {
     id: 199,
     albumId: 13,
     name: 'Paradise',
-    singer: ' Benny Benassi & Chris Brown',
+    singer: 'Benny Benassi & Chris Brown',
     youtubeId: ''
   },
   {
     id: 200,
     albumId: 13,
     name: '7 Years',
-    singer: ' Kiwi Bird',
+    singer: 'Kiwi Bird',
     youtubeId: ''
   },
   {
     id: 201,
     albumId: 13,
     name: 'The Ocean',
-    singer: ' Mike Perry feat. Shy Martin',
+    singer: 'Mike Perry feat. Shy Martin',
     youtubeId: ''
   },
   {
     id: 202,
     albumId: 13,
     name: 'Fast Car',
-    singer: ' NLKD',
+    singer: 'NLKD',
     youtubeId: ''
   },
   {
     id: 203,
     albumId: 13,
     name: 'She Knows',
-    singer: ' Elekfantz',
+    singer: 'Elekfantz',
     youtubeId: ''
   },
   {
     id: 204,
     albumId: 13,
     name: 'Here Without You',
-    singer: ' The Squadz',
+    singer: 'The Squadz',
     youtubeId: ''
   },
   {
     id: 205,
     albumId: 13,
     name: 'Nightlife',
-    singer: ' D.I.B feat. Nathan Brumley',
+    singer: 'D.I.B feat. Nathan Brumley',
     youtubeId: ''
   },
   {
     id: 206,
     albumId: 13,
     name: 'Turn It Up',
-    singer: ' Naza Brothers',
+    singer: 'Naza Brothers',
     youtubeId: ''
   },
   {
     id: 207,
     albumId: 13,
     name: 'Troy',
-    singer: ' Ftampa & WAO',
+    singer: 'Ftampa & WAO',
     youtubeId: ''
   },
   {
     id: 208,
     albumId: 14,
     name: 'Your Power',
-    singer: ' WAO feat. Gannah',
+    singer: 'WAO feat. Gannah',
     youtubeId: ''
   },
   {
     id: 209,
     albumId: 14,
     name: 'One Nation',
-    singer: ' D.I.B. feat. Luizor Eim',
+    singer: 'D.I.B. feat. Luizor Eim',
     youtubeId: ''
   },
   {
     id: 210,
     albumId: 14,
     name: 'Breakup Song',
-    singer: ' De Hofnar feat. Son of Patricia',
+    singer: 'De Hofnar feat. Son of Patricia',
     youtubeId: ''
   },
   {
     id: 211,
     albumId: 14,
     name: 'Infinito Particular (Bhaskar Remix)',
-    singer: ' Silva',
+    singer: 'Silva',
     youtubeId: ''
   },
   {
     id: 212,
     albumId: 14,
     name: 'Rising Sun',
-    singer: ' Goldfish & Pontifexx feat. Gustavo Bertoni',
+    singer: 'Goldfish & Pontifexx feat. Gustavo Bertoni',
     youtubeId: ''
   },
   {
     id: 213,
     albumId: 14,
     name: 'Vem Quente Que Eu Estou Fervendo',
-    singer: ' Rivas (Br) vs Danne feat. Breno Miranda',
+    singer: 'Rivas (Br) vs Danne feat. Breno Miranda',
     youtubeId: ''
   },
   {
     id: 214,
     albumId: 14,
     name: 'Summer Love',
-    singer: ' Chemical Surf feat. Jake Reese',
+    singer: 'Chemical Surf feat. Jake Reese',
     youtubeId: ''
   },
   {
     id: 215,
     albumId: 14,
     name: 'Cold Heart',
-    singer: ' Bhaskar vs Gabriel Boni feat. Layna',
+    singer: 'Bhaskar vs Gabriel Boni feat. Layna',
     youtubeId: ''
   },
   {
     id: 216,
     albumId: 14,
     name: 'Wicked Games',
-    singer: ' Vee Groove feat. Luciana Gaspar',
+    singer: 'Vee Groove feat. Luciana Gaspar',
     youtubeId: ''
   },
   {
     id: 217,
     albumId: 14,
     name: 'Paradise',
-    singer: ' Kenshin & Mojjo feat. Marcelo Braga',
+    singer: 'Kenshin & Mojjo feat. Marcelo Braga',
     youtubeId: ''
   },
   {
     id: 218,
     albumId: 14,
     name: 'Found U',
-    singer: ' Dimmi feat. Zeeba',
+    singer: 'Dimmi feat. Zeeba',
     youtubeId: ''
   },
   {
     id: 219,
     albumId: 14,
     name: 'In My Soul',
-    singer: ' WAO feat. Kamatos',
+    singer: 'WAO feat. Kamatos',
     youtubeId: ''
   },
   {
     id: 220,
     albumId: 14,
     name: "I'm Not Dreaming",
-    singer: ' D.I.B. feat. Sam Alves',
+    singer: 'D.I.B. feat. Sam Alves',
     youtubeId: ''
   },
   {
     id: 221,
     albumId: 14,
     name: 'She Says',
-    singer: ' Nato Medrado',
+    singer: 'Nato Medrado',
     youtubeId: ''
   },
   {
     id: 222,
     albumId: 15,
     name: 'Abraço Forte',
-    singer: ' Bhaskar feat. Hungria Hip Hop',
+    singer: 'Bhaskar feat. Hungria Hip Hop',
     youtubeId: ''
   },
   {
     id: 223,
     albumId: 15,
     name: 'Nosso Amor Virou Canção',
-    singer: ' Ralk, Make U Sweat feat. Guga Sabatiê',
+    singer: 'Ralk, Make U Sweat feat. Guga Sabatiê',
     youtubeId: ''
   },
   {
     id: 224,
     albumId: 15,
     name: "When You're Alone",
-    singer: ' Altermauz feat. Pontifexx',
+    singer: 'Altermauz feat. Pontifexx',
     youtubeId: ''
   },
   {
     id: 225,
     albumId: 15,
     name: 'Addicted',
-    singer: ' Doublez, Guz Zanotto feat. Ol.C',
+    singer: 'Doublez, Guz Zanotto feat. Ol.C',
     youtubeId: ''
   },
   {
     id: 226,
     albumId: 15,
     name: 'Let You Go',
-    singer: ' Mojjo',
+    singer: 'Mojjo',
     youtubeId: ''
   },
   {
     id: 227,
     albumId: 15,
     name: 'Pura Invenção',
-    singer: ' Brazza Squad, Cool Keedz feat. Leo S',
+    singer: 'Brazza Squad, Cool Keedz feat. Leo S',
     youtubeId: ''
   },
   {
     id: 228,
     albumId: 15,
     name: 'Cuidado',
-    singer: ' Gaab feat.Ralk',
+    singer: 'Gaab feat.Ralk',
     youtubeId: ''
   },
   {
     id: 229,
     albumId: 15,
     name: 'Fica Tudo Bem',
-    singer: ' Silva, Bhaskar feat. Anitta',
+    singer: 'Silva, Bhaskar feat. Anitta',
     youtubeId: ''
   },
   {
     id: 230,
     albumId: 15,
     name: 'All Night',
-    singer: ' Woo2tech, Arcuri feat. Weldon',
+    singer: 'Woo2tech, Arcuri feat. Weldon',
     youtubeId: ''
   },
   {
     id: 231,
     albumId: 15,
     name: 'First Love',
-    singer: ' D.I.B',
+    singer: 'D.I.B',
     youtubeId: ''
   },
   {
     id: 232,
     albumId: 15,
     name: 'Devotion',
-    singer: ' Pontifexx, Foreign',
+    singer: 'Pontifexx, Foreign',
     youtubeId: ''
   },
   {
     id: 233,
     albumId: 15,
     name: 'Like Dis',
-    singer: ' Volac feat. Gustavo Mota',
+    singer: 'Volac feat. Gustavo Mota',
     youtubeId: ''
   },
   {
     id: 234,
     albumId: 15,
     name: 'Tô Feliz (Matei O Presidente) 2',
-    singer: ' Gabriel O Pensador feat. Chemical Surf, DJ Memê',
+    singer: 'Gabriel O Pensador feat. Chemical Surf, DJ Memê',
     youtubeId: ''
   },
   {
     id: 235,
     albumId: 15,
     name: 'Think Fast',
-    singer: ' Liu',
+    singer: 'Liu',
     youtubeId: ''
   },
   {
     id: 236,
     albumId: 16,
     name: 'Surreal (feat. Vitório)',
-    singer: ' Mojjo',
+    singer: 'Mojjo',
     youtubeId: ''
   },
   {
     id: 237,
     albumId: 16,
     name: 'Show Me Love',
-    singer: ' Sandeille',
+    singer: 'Sandeille',
     youtubeId: ''
   },
   {
     id: 238,
     albumId: 16,
     name: 'Pensa Em Mim',
-    singer: ' Ralk',
+    singer: 'Ralk',
     youtubeId: ''
   },
   {
     id: 239,
     albumId: 16,
     name: 'Mood',
-    singer: ' Samhara',
+    singer: 'Samhara',
     youtubeId: ''
   },
   {
     id: 240,
     albumId: 16,
     name: "I'm the One",
-    singer: ' Mojjo',
+    singer: 'Mojjo',
     youtubeId: ''
   },
   {
     id: 241,
     albumId: 16,
     name: 'Touch Me',
-    singer: ' Bhaskar',
+    singer: 'Bhaskar',
     youtubeId: ''
   },
   {
     id: 242,
     albumId: 16,
     name: 'Fallow Rivers',
-    singer: ' Salk',
+    singer: 'Salk',
     youtubeId: ''
   },
   {
     id: 243,
     albumId: 16,
     name: 'Crazy In Ibiza',
-    singer: ' Jatlag Music',
+    singer: 'Jatlag Music',
     youtubeId: ''
   },
   {
     id: 244,
     albumId: 16,
     name: 'Marra Cash',
-    singer: ' Samhara',
+    singer: 'Samhara',
     youtubeId: ''
   },
   {
     id: 245,
     albumId: 16,
     name: 'Alive',
-    singer: ' VINNE',
+    singer: 'VINNE',
     youtubeId: ''
   },
   {
     id: 246,
     albumId: 16,
     name: 'Lost in True Devotion',
-    singer: ' Clubbers',
+    singer: 'Clubbers',
     youtubeId: ''
   },
   {
     id: 247,
     albumId: 16,
     name: "It's All About",
-    singer: ' Rooftime',
+    singer: 'Rooftime',
     youtubeId: ''
   },
   {
     id: 248,
     albumId: 16,
     name: 'My Way (feat. drecopy)',
-    singer: ' Zucchi',
+    singer: 'Zucchi',
     youtubeId: ''
   },
   {
     id: 249,
     albumId: 16,
     name: 'Belong',
-    singer: ' Zerb',
+    singer: 'Zerb',
     youtubeId: ''
   }
 ]

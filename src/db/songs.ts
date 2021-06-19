@@ -4,7 +4,7 @@ export default [
     albumId: 1,
     name: 'Can You Feel It',
     singer: 'Jean Roch',
-    youtubeId: 'X3_SLjbliQM'
+    youtubeId: '7eQHIGZfw6I'
   },
   {
     id: 2,
@@ -564,238 +564,238 @@ export default [
     albumId: 6,
     name: 'I Gotta Feeling',
     singer: 'Black Eyed Peas',
-    youtubeId: ''
+    youtubeId: 'CwdrtwZiQ9E'
   },
   {
     id: 82,
     albumId: 6,
     name: 'When Love Takes Over',
     singer: 'David Guetta feat. Kelly Rowland',
-    youtubeId: ''
+    youtubeId: 'uTDafjfxu5c'
   },
   {
     id: 83,
     albumId: 6,
     name: 'Poker Face (Dave Audé Remix)',
     singer: 'Lady Gaga',
-    youtubeId: ''
+    youtubeId: 'yXTAbvg9XZ0'
   },
   {
     id: 84,
     albumId: 6,
     name: 'Hush Hush; Hush Hush (Dave Audé Remix)',
     singer: 'The Pussycat Dolls',
-    youtubeId: ''
+    youtubeId: 'Yg9GKDIix8k'
   },
   {
     id: 85,
     albumId: 6,
     name: 'Leave The World Behind',
     singer: 'Swedish House Mafia & Laidback Luke feat. Deborah Cox',
-    youtubeId: ''
+    youtubeId: 'Ksx1eM-gJak'
   },
   {
     id: 86,
     albumId: 6,
     name: 'Let the Bass Kick in Miami Bitch',
     singer: 'Chuckie vs. LMFAO',
-    youtubeId: ''
+    youtubeId: 'CwzavPc27KM'
   },
   {
     id: 87,
     albumId: 6,
     name: 'Infinity',
     singer: 'Guru Josh Project',
-    youtubeId: ''
+    youtubeId: '8rjpDYP9RBk'
   },
   {
     id: 88,
     albumId: 6,
     name: 'Give It to Me',
     singer: 'Alexxa',
-    youtubeId: ''
+    youtubeId: 'k9eb3w1NStI'
   },
   {
     id: 89,
     albumId: 6,
     name: 'Fiesta Loca',
     singer: 'Desaparecidos',
-    youtubeId: ''
+    youtubeId: '_MMGYPhy0fk'
   },
   {
     id: 90,
     albumId: 6,
     name: 'Brand New Day',
     singer: 'Filipe Guerra feat. Lorena Simpson',
-    youtubeId: ''
+    youtubeId: 'X7SgFfiCiiI'
   },
   {
     id: 91,
     albumId: 6,
     name: 'In The Air (Axwell Remix)',
     singer: 'TV Rock feat. Rudy',
-    youtubeId: ''
+    youtubeId: 'LXKoNleQPtk'
   },
   {
     id: 92,
     albumId: 6,
     name: 'Sun Is Coming Out',
     singer: 'DJ Memê',
-    youtubeId: ''
+    youtubeId: 'LEaNySd3a8c'
   },
   {
     id: 93,
     albumId: 6,
     name: 'Day & Night',
     singer: 'Kid Cudi feat. The Crookers',
-    youtubeId: ''
+    youtubeId: 'XSahvM08u6s'
   },
   {
     id: 94,
     albumId: 6,
     name: 'S.O.S.',
     singer: 'Ian Carey feat. Craig Smart',
-    youtubeId: ''
+    youtubeId: '7cVCEmvR7y4'
   },
   {
     id: 95,
     albumId: 6,
     name: 'Destiny',
     singer: 'DJ Tom Hopkins feat. Samara',
-    youtubeId: ''
+    youtubeId: 'mwxYUgGmw4w'
   },
   {
     id: 96,
     albumId: 6,
     name: 'I Feel So Free',
     singer: 'Spyzer',
-    youtubeId: ''
+    youtubeId: 'hDEdadLye_k'
   },
   {
     id: 97,
     albumId: 7,
     name: 'One',
     singer: 'Swedish House Mafia feat. Pharrell',
-    youtubeId: ''
+    youtubeId: 'iJld9Ra1OBQ'
   },
   {
     id: 98,
     albumId: 7,
     name: "Gettin'Over You",
     singer: 'David Guetta feat. Fergie & LMFAO',
-    youtubeId: ''
+    youtubeId: 'Jn2OAS1K3ZY'
   },
   {
     id: 99,
     albumId: 7,
     name: 'California Gurls',
     singer: 'Katy Perry feat. Snoop Dogg',
-    youtubeId: ''
+    youtubeId: 'tRiE-YjHHKE'
   },
   {
     id: 100,
     albumId: 7,
     name: "I'm In Love (I Wanna Do It)",
     singer: 'Alex Gaudino',
-    youtubeId: ''
+    youtubeId: 'bKDsur3lgaI'
   },
   {
     id: 101,
     albumId: 7,
     name: 'Stereo Love (Molella Radio Edit)',
     singer: 'Edward Maya & Vika Jigulina',
-    youtubeId: ''
+    youtubeId: 'TqIydDZJ2xg'
   },
   {
     id: 102,
     albumId: 7,
     name: "We No Speak Americano (Tu Vuò Fà L'Americano)",
     singer: 'Yolanda Be Cool vs. Dcup',
-    youtubeId: ''
+    youtubeId: 'B1XWcBIicWs'
   },
   {
     id: 103,
     albumId: 7,
     name: 'Tik Tok (Fred Falke Remix)',
     singer: 'Ke$ha',
-    youtubeId: ''
+    youtubeId: 'RC6Jwmt91rs'
   },
   {
     id: 104,
     albumId: 7,
     name: "Club Can't Handle Me",
     singer: 'Flo Rida feat. David Guetta',
-    youtubeId: ''
+    youtubeId: 'dS8WyNVHVyA'
   },
   {
     id: 105,
     albumId: 7,
     name: 'Not Giving Up On Love',
     singer: 'Armim Van Buuren vs. Sophie Ellis-Bextor',
-    youtubeId: ''
+    youtubeId: 'D2LHV40dJsc'
   },
   {
     id: 106,
     albumId: 7,
     name: 'Live It Up',
     singer: 'Ali Pierre',
-    youtubeId: ''
+    youtubeId: 'pv242bkj7mo'
   },
   {
     id: 107,
     albumId: 7,
     name: "That's My Name",
     singer: 'Akcent',
-    youtubeId: ''
+    youtubeId: 'SBQPv3A9XIs'
   },
   {
     id: 108,
     albumId: 7,
     name: 'Summer Lie',
     singer: 'Eliza G.',
-    youtubeId: ''
+    youtubeId: 'ovwv4TWN6-E'
   },
   {
     id: 109,
     albumId: 7,
     name: "I Don't Know What To Do",
     singer: " Tiko's Groove feat. Gosha",
-    youtubeId: ''
+    youtubeId: 'ag-5VzK_PtY'
   },
   {
     id: 110,
     albumId: 7,
     name: 'Follow You',
     singer: 'Desaparecidos',
-    youtubeId: ''
+    youtubeId: '81zf9pr3MGY'
   },
   {
     id: 111,
     albumId: 7,
     name: 'Release Me',
     singer: 'Tv Rock & Zoe Badwi',
-    youtubeId: ''
+    youtubeId: 'fHm9nJurkG0'
   },
   {
     id: 112,
     albumId: 7,
     name: 'Hot',
     singer: 'Inna',
-    youtubeId: ''
+    youtubeId: 'Z_PzGjXuros'
   },
   {
     id: 113,
     albumId: 7,
     name: "Hey Hey (DF's Attention Remix)",
     singer: 'Dennis Ferrer',
-    youtubeId: ''
+    youtubeId: 'opPHYq8cE1E'
   },
   {
     id: 114,
     albumId: 7,
     name: 'Falling for U',
     singer: 'Mister Jam feat. Wanessa',
-    youtubeId: ''
+    youtubeId: 'n_pQR8TBa9g'
   },
   {
     id: 115,

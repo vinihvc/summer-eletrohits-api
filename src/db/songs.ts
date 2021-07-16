@@ -802,126 +802,126 @@ export default [
     albumId: 8,
     name: 'Save The World',
     singer: 'Swedish House Mafia feat. John Martin',
-    youtubeId: ''
+    youtubeId: 'bYLTh-oyrk8'
   },
   {
     id: 116,
     albumId: 8,
     name: 'Give Me Everything',
     singer: 'Pitbull feat. Ne-Yo, Afrojack & Nayer',
-    youtubeId: ''
+    youtubeId: '2tCpkDh_Zto'
   },
   {
     id: 117,
     albumId: 8,
     name: 'Beautiful People',
     singer: 'Chris Brown feat. Benny Benassi',
-    youtubeId: ''
+    youtubeId: 'Yi-2cgzNz_U'
   },
   {
     id: 118,
     albumId: 8,
     name: 'Take Over Control',
     singer: 'Afrojack feat. Eva Simons',
-    youtubeId: ''
+    youtubeId: 'PpFOIpadpVM'
   },
   {
     id: 119,
     albumId: 8,
     name: 'Cry (Just A Little)',
     singer: 'Bingo Players',
-    youtubeId: ''
+    youtubeId: 'cZL6bqFLJi0'
   },
   {
     id: 120,
     albumId: 8,
     name: 'Made Of (Radio Edit)',
     singer: 'Nause',
-    youtubeId: ''
+    youtubeId: 'efC8hxHJ7-w'
   },
   {
     id: 121,
     albumId: 8,
     name: 'Dynamite',
     singer: 'Taio Cruz',
-    youtubeId: ''
+    youtubeId: 'OHL8Z6I0-04'
   },
   {
     id: 122,
     albumId: 8,
     name: 'Seek Bromance',
     singer: 'Tim Berg',
-    youtubeId: ''
+    youtubeId: 'l2l_duTwhtc'
   },
   {
     id: 123,
     albumId: 8,
     name: 'Welcome To St. Tropez',
     singer: 'DJ Antoine vs. Timati feat. Kalenna',
-    youtubeId: ''
+    youtubeId: 'bWxDjxPn-8c'
   },
   {
     id: 124,
     albumId: 8,
     name: 'I Wanna Go',
     singer: 'Britney Spears',
-    youtubeId: ''
+    youtubeId: 'tdj7LUf-2C0'
   },
   {
     id: 125,
     albumId: 8,
     name: 'You Make Me Feel',
     singer: 'Cobra Starship feat. Sabi',
-    youtubeId: ''
+    youtubeId: 'MXYggIbS0KE'
   },
   {
     id: 126,
     albumId: 8,
     name: 'Mr. Saxobeat',
     singer: 'Alexandra Stan',
-    youtubeId: ''
+    youtubeId: 'AJS-BshkE28'
   },
   {
     id: 127,
     albumId: 8,
     name: 'Barbra Streisand',
     singer: 'Duck Sauce',
-    youtubeId: ''
+    youtubeId: 'SJ6LKLGHjUU'
   },
   {
     id: 128,
     albumId: 8,
     name: 'Walkin’ On Air (Burn)',
     singer: 'Mister Jam feat. Ali Pierre & King TEF',
-    youtubeId: ''
+    youtubeId: 'aDtT4Rf5WiY'
   },
   {
     id: 129,
     albumId: 8,
     name: 'What A Feeling',
     singer: 'Alex Gaudino feat. Kelly Rowland',
-    youtubeId: ''
+    youtubeId: '7eB7pQ5eqDw'
   },
   {
     id: 130,
     albumId: 8,
     name: 'Got Me Going Over',
     singer: 'Ask2Quit feat. Colonel Red',
-    youtubeId: ''
+    youtubeId: '2d4WzG8nW4U'
   },
   {
     id: 131,
     albumId: 8,
     name: 'Show Me',
     singer: 'Jessica Sutta',
-    youtubeId: ''
+    youtubeId: 'ANS-c3KipYU'
   },
   {
     id: 132,
     albumId: 8,
     name: "Don't Wanna Go Home [sample: Show me Love]",
     singer: 'Jason Derülo',
-    youtubeId: ''
+    youtubeId: '6CDX04Gbl2g'
   },
   {
     id: 133,

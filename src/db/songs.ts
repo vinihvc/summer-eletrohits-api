@@ -928,112 +928,112 @@ export default [
     albumId: 9,
     name: "Let's Go",
     singer: 'Calvin Harris feat. Ne-Yo',
-    youtubeId: ''
+    youtubeId: 'Be6qWOd94FI'
   },
   {
     id: 134,
     albumId: 9,
     name: "Don't You Worry Child",
     singer: 'Swedish House Mafia feat. John Martin',
-    youtubeId: ''
+    youtubeId: '_TAJsIwlze8'
   },
   {
     id: 135,
     albumId: 9,
     name: "Don't Stop the Party",
     singer: 'Pitbull feat. TJR',
-    youtubeId: ''
+    youtubeId: 'yYLTGtBk5Dc'
   },
   {
     id: 136,
     albumId: 9,
     name: 'Calling (Lose My Mind)',
     singer: 'Sebastian Ingrosso feat. Alesso & Ryan Tedder',
-    youtubeId: ''
+    youtubeId: 'vvV9sKR-OG8'
   },
   {
     id: 137,
     albumId: 9,
     name: 'Who',
     singer: 'Tujamo & Plastik Funk',
-    youtubeId: ''
+    youtubeId: 'nSYRU1eUVIY'
   },
   {
     id: 138,
     albumId: 9,
     name: 'Golden People',
     singer: 'Mister Jam feat. Jacq & King TEF',
-    youtubeId: ''
+    youtubeId: '7u3REt7LcY8'
   },
   {
     id: 139,
     albumId: 9,
     name: "Can't Stop Me",
     singer: 'Afrojack & Shermanology',
-    youtubeId: ''
+    youtubeId: 'JnxYFZXhJPA'
   },
   {
     id: 140,
     albumId: 9,
     name: 'How We Do (Party) - Juhola & Denavi Remix',
     singer: 'Rita Ora',
-    youtubeId: ''
+    youtubeId: 'ckBlXeBkSG8'
   },
   {
     id: 141,
     albumId: 9,
     name: 'Spectrum',
     singer: 'Zedd feat. Matthew Koma',
-    youtubeId: ''
+    youtubeId: 'dzP8ID8kLVg'
   },
   {
     id: 142,
     albumId: 9,
     name: 'Famous Before 5',
     singer: 'R-Go feat. Nando Vedder',
-    youtubeId: ''
+    youtubeId: 'DcjHcqYbm1A'
   },
   {
     id: 143,
     albumId: 9,
     name: 'One Day (Reckoning Song)',
     singer: 'Asaf Avidan',
-    youtubeId: ''
+    youtubeId: 'w5dsmSviCvo'
   },
   {
     id: 144,
     albumId: 9,
     name: "I Can't Get Nothing",
     singer: " Tiko's Groove feat. Gosha",
-    youtubeId: ''
+    youtubeId: 'CclIcYvTzs0'
   },
   {
     id: 145,
     albumId: 9,
     name: 'The Night Out',
     singer: 'Martin Solveig',
-    youtubeId: ''
+    youtubeId: 'AV-8EOJGzo8'
   },
   {
     id: 146,
     albumId: 9,
     name: 'I Want You Back',
     singer: 'DJ Joe K feat. Jerique Allan',
-    youtubeId: ''
+    youtubeId: 'x_Y0PBCB8es'
   },
   {
     id: 147,
     albumId: 9,
     name: 'Take You Higher',
     singer: 'Goodwill & Hook N Sling',
-    youtubeId: ''
+    youtubeId: 'pRPX-aVa5t8'
   },
   {
     id: 148,
     albumId: 9,
     name: 'Ma Chérie',
     singer: 'DJ Antoine feat. The Beat Shakers',
-    youtubeId: ''
+    youtubeId: 'm9bll22wYRc'
   },
   {
     id: 149,

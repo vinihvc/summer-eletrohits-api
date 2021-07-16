@@ -1040,119 +1040,119 @@ export default [
     albumId: 10,
     name: 'I Love It (Cobra Starship Remix)',
     singer: 'Icona Pop feat. Charli XCX',
-    youtubeId: ''
+    youtubeId: 'lYr_CBmrZ4'
   },
   {
     id: 150,
     albumId: 10,
     name: 'Locked Out of Heaven',
     singer: 'Bruno Mars',
-    youtubeId: ''
+    youtubeId: 'yECcVa6tsX8'
   },
   {
     id: 151,
     albumId: 10,
     name: 'Sweet Nothing',
     singer: 'Calvin Harris feat. Florence Welch',
-    youtubeId: ''
+    youtubeId: 'TlOeXk_VGeY'
   },
   {
     id: 152,
     albumId: 10,
     name: 'This Is What It Feels Like',
     singer: 'Armin Van Buuren feat. Trevor Guthrie',
-    youtubeId: ''
+    youtubeId: 'xkUaOM514XI'
   },
   {
     id: 153,
     albumId: 10,
     name: 'Never Say Goodbye',
     singer: 'Hardwell & Dyro feat. Bright Lights',
-    youtubeId: ''
+    youtubeId: 'gpbi0XoaxLw'
   },
   {
     id: 154,
     albumId: 10,
     name: 'Summer Moonlight',
     singer: 'Bob Sinclar feat. Bem Delay',
-    youtubeId: ''
+    youtubeId: 'et4PhC7OBaQ'
   },
   {
     id: 155,
     albumId: 10,
     name: 'Keep Running',
     singer: 'Marcelo CIC feat. Benjamin K',
-    youtubeId: ''
+    youtubeId: 'nA8pWMywxas'
   },
   {
     id: 156,
     albumId: 10,
     name: 'No Place Like Home',
     singer: 'Mync & Senadee',
-    youtubeId: ''
+    youtubeId: 'iVxpqFCZ-IA'
   },
   {
     id: 157,
     albumId: 10,
     name: 'Sunrise (Won’t Get Lost)',
     singer: 'The Aston Shufle & Tommy Trash',
-    youtubeId: ''
+    youtubeId: 'PeXy7ujZpHg'
   },
   {
     id: 158,
     albumId: 10,
     name: 'Alive',
     singer: 'Krewella',
-    youtubeId: ''
+    youtubeId: 'uELBOqouvng'
   },
   {
     id: 159,
     albumId: 10,
     name: 'Give All Now',
     singer: " Tiko's Groove feat. Gosha",
-    youtubeId: ''
+    youtubeId: 'H5NRA7TpjDo'
   },
   {
     id: 160,
     albumId: 10,
     name: 'Call Me a Spaceman',
     singer: 'Hardwell feat. Mitch Crown',
-    youtubeId: ''
+    youtubeId: 'Q7raSefskX8'
   },
   {
     id: 161,
     albumId: 10,
     name: 'Heartbeat',
     singer: 'Mr. Jam feat. Chris Willis',
-    youtubeId: ''
+    youtubeId: 'y7SHAPyWDvg'
   },
   {
     id: 162,
     albumId: 10,
     name: 'When I Turn Off The Lights',
     singer: 'Cuti DJ feat. D’Twice',
-    youtubeId: ''
+    youtubeId: '-ea25o3HBEs'
   },
   {
     id: 163,
     albumId: 10,
     name: 'Warrior',
     singer: 'Luciano Roffer, R-Go & Ester',
-    youtubeId: ''
+    youtubeId: '5pWG7rZaRWA'
   },
   {
     id: 164,
     albumId: 10,
     name: 'Best of You',
     singer: " Vee Brondi & Marcelo D'Sá",
-    youtubeId: ''
+    youtubeId: 'DVPcwFR_2ZA'
   },
   {
     id: 165,
     albumId: 10,
     name: 'Ready',
     singer: 'Anthony Garcia',
-    youtubeId: ''
+    youtubeId: 'T3ivAS0ZQ8o'
   },
   {
     id: 166,

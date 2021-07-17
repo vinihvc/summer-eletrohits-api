@@ -1159,98 +1159,98 @@ export default [
     albumId: 11,
     name: 'Shot Me Down',
     singer: 'David Guetta feat. Skylar Grey',
-    youtubeId: ''
+    youtubeId: 'mMmqjnwQlVc'
   },
   {
     id: 167,
     albumId: 11,
     name: 'Rather Be',
     singer: 'Clean Bandit feat. Jess Glynne',
-    youtubeId: ''
+    youtubeId: 'zxcB5H4TfpM '
   },
   {
     id: 168,
     albumId: 11,
     name: 'A Sky Full of Stars',
     singer: 'Avicii & Coldplay',
-    youtubeId: ''
+    youtubeId: 'FAsOx3O4tdk'
   },
   {
     id: 169,
     albumId: 11,
     name: 'Dare You',
     singer: 'Hardwell feat. Matthew Koma',
-    youtubeId: ''
+    youtubeId: 'fKv6sIsUdn8'
   },
   {
     id: 170,
     albumId: 11,
     name: 'Howl at the Moon',
     singer: 'Stadiumx & Taylr Renne',
-    youtubeId: ''
+    youtubeId: 'zSLKGKDuCYg'
   },
   {
     id: 171,
     albumId: 11,
     name: 'Show Me Love',
     singer: 'Michael Mind Project',
-    youtubeId: ''
+    youtubeId: '1R9_AWAEfMA'
   },
   {
     id: 172,
     albumId: 11,
     name: 'Light It Up',
     singer: 'DJ Antoine',
-    youtubeId: ''
+    youtubeId: 'ReqpE9Cj94A'
   },
   {
     id: 173,
     albumId: 11,
     name: 'We Are Free',
     singer: 'Mister Jam feat. Johnny Franco',
-    youtubeId: ''
+    youtubeId: '8bFXTm3K07M'
   },
   {
     id: 174,
     albumId: 11,
     name: 'Beautiful Daylight',
     singer: 'Vee Brondi & Terri B!',
-    youtubeId: ''
+    youtubeId: '3FPxEoevkpg'
   },
   {
     id: 175,
     albumId: 11,
     name: 'Revolution (Audien Remix)',
     singer: 'R3hab, Nervo & Ummet Ozcan',
-    youtubeId: ''
+    youtubeId: 'yTKWDwomHbA'
   },
   {
     id: 176,
     albumId: 11,
     name: 'Wicked Wonderland',
     singer: 'Martin Tungevaag',
-    youtubeId: ''
+    youtubeId: 'g6IHW2a_UCA'
   },
   {
     id: 177,
     albumId: 11,
     name: 'Celebrate Life',
     singer: 'Cuti DJ feat. Marquinho Osócio',
-    youtubeId: ''
+    youtubeId: 'YK3bdEDAPcw'
   },
   {
     id: 178,
     albumId: 11,
     name: 'The Bass',
     singer: 'Tom Hopkins & Anthony Garcia',
-    youtubeId: ''
+    youtubeId: '3kgBdjVDoyk'
   },
   {
     id: 179,
     albumId: 11,
     name: 'We Were Young',
     singer: 'DVBBS',
-    youtubeId: ''
+    youtubeId: 'Vn4B6TEWlB4'
   },
   {
     id: 180,

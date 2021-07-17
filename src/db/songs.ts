@@ -1551,98 +1551,98 @@ export default [
     albumId: 15,
     name: 'Abraço Forte',
     singer: 'Bhaskar feat. Hungria Hip Hop',
-    youtubeId: ''
+    youtubeId: '1XPJNFUS380'
   },
   {
     id: 223,
     albumId: 15,
     name: 'Nosso Amor Virou Canção',
     singer: 'Ralk, Make U Sweat feat. Guga Sabatiê',
-    youtubeId: ''
+    youtubeId: 'Vdr9zGgyA7w'
   },
   {
     id: 224,
     albumId: 15,
     name: "When You're Alone",
     singer: 'Altermauz feat. Pontifexx',
-    youtubeId: ''
+    youtubeId: 'BHGYqJhUVIc'
   },
   {
     id: 225,
     albumId: 15,
     name: 'Addicted',
     singer: 'Doublez, Guz Zanotto feat. Ol.C',
-    youtubeId: ''
+    youtubeId: 'Nno5aumLBDI'
   },
   {
     id: 226,
     albumId: 15,
     name: 'Let You Go',
     singer: 'Mojjo',
-    youtubeId: ''
+    youtubeId: 'knnakkhbWb4'
   },
   {
     id: 227,
     albumId: 15,
     name: 'Pura Invenção',
     singer: 'Brazza Squad, Cool Keedz feat. Leo S',
-    youtubeId: ''
+    youtubeId: 'g0qUN77K3ec'
   },
   {
     id: 228,
     albumId: 15,
     name: 'Cuidado',
     singer: 'Gaab feat.Ralk',
-    youtubeId: ''
+    youtubeId: 'tWLfPlpRx5w'
   },
   {
     id: 229,
     albumId: 15,
     name: 'Fica Tudo Bem',
     singer: 'Silva, Bhaskar feat. Anitta',
-    youtubeId: ''
+    youtubeId: 'd7C6ID964Ec'
   },
   {
     id: 230,
     albumId: 15,
     name: 'All Night',
     singer: 'Woo2tech, Arcuri feat. Weldon',
-    youtubeId: ''
+    youtubeId: 'Sc38GMadUUw'
   },
   {
     id: 231,
     albumId: 15,
     name: 'First Love',
     singer: 'D.I.B',
-    youtubeId: ''
+    youtubeId: 'fNQRfP9Dggs'
   },
   {
     id: 232,
     albumId: 15,
     name: 'Devotion',
     singer: 'Pontifexx, Foreign',
-    youtubeId: ''
+    youtubeId: 'JfpCKZLZ4cQ'
   },
   {
     id: 233,
     albumId: 15,
     name: 'Like Dis',
     singer: 'Volac feat. Gustavo Mota',
-    youtubeId: ''
+    youtubeId: 'jUkC1yfwrgA'
   },
   {
     id: 234,
     albumId: 15,
     name: 'Tô Feliz (Matei O Presidente) 2',
     singer: 'Gabriel O Pensador feat. Chemical Surf, DJ Memê',
-    youtubeId: ''
+    youtubeId: 'aV8-NujWpig'
   },
   {
     id: 235,
     albumId: 15,
     name: 'Think Fast',
     singer: 'Liu',
-    youtubeId: ''
+    youtubeId: '1nHX3ERF4d4'
   },
   {
     id: 236,

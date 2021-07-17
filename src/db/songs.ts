@@ -340,7 +340,7 @@ export default [
     albumId: 4,
     name: 'Love Is Gone (Fred Rister & Joachim Garraud Remix)',
     singer: 'David Guetta',
-    youtubeId: 'Yap2dh2k44'
+    youtubeId: 'Lefz4yQmwcc'
   },
   {
     id: 50,
@@ -361,7 +361,7 @@ export default [
     albumId: 4,
     name: 'I Wish You Would',
     singer: 'Martijn Ten Velden',
-    youtubeId: 's8cVY1odeY'
+    youtubeId: '-s8cVY1odeY'
   },
   {
     id: 53,
@@ -781,7 +781,7 @@ export default [
     albumId: 7,
     name: 'Hot',
     singer: 'Inna',
-    youtubeId: 'Z_PzGjXuros'
+    youtubeId: 'K15zuILXkP0'
   },
   {
     id: 113,
@@ -1040,7 +1040,7 @@ export default [
     albumId: 10,
     name: 'I Love It (Cobra Starship Remix)',
     singer: 'Icona Pop feat. Charli XCX',
-    youtubeId: 'lYr_CBmrZ4'
+    youtubeId: 'NxibYrEsjt0'
   },
   {
     id: 150,
@@ -1166,7 +1166,7 @@ export default [
     albumId: 11,
     name: 'Rather Be',
     singer: 'Clean Bandit feat. Jess Glynne',
-    youtubeId: 'zxcB5H4TfpM '
+    youtubeId: 'jUjDcqdvCrk '
   },
   {
     id: 168,

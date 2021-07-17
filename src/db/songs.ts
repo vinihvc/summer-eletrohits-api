@@ -1453,98 +1453,98 @@ export default [
     albumId: 14,
     name: 'Your Power',
     singer: 'WAO feat. Gannah',
-    youtubeId: ''
+    youtubeId: 'LGKY550oenI'
   },
   {
     id: 209,
     albumId: 14,
     name: 'One Nation',
     singer: 'D.I.B. feat. Luizor Eim',
-    youtubeId: ''
+    youtubeId: 'eqwPAnk3W5k'
   },
   {
     id: 210,
     albumId: 14,
     name: 'Breakup Song',
     singer: 'De Hofnar feat. Son of Patricia',
-    youtubeId: ''
+    youtubeId: 'vnwxH7_1d_Y'
   },
   {
     id: 211,
     albumId: 14,
     name: 'Infinito Particular (Bhaskar Remix)',
     singer: 'Silva',
-    youtubeId: ''
+    youtubeId: 'OMTzbY3E4QA'
   },
   {
     id: 212,
     albumId: 14,
     name: 'Rising Sun',
     singer: 'Goldfish & Pontifexx feat. Gustavo Bertoni',
-    youtubeId: ''
+    youtubeId: 'AMfPq2Lmh7I'
   },
   {
     id: 213,
     albumId: 14,
     name: 'Vem Quente Que Eu Estou Fervendo',
     singer: 'Rivas (Br) vs Danne feat. Breno Miranda',
-    youtubeId: ''
+    youtubeId: 'KCGYElNM1LY'
   },
   {
     id: 214,
     albumId: 14,
     name: 'Summer Love',
     singer: 'Chemical Surf feat. Jake Reese',
-    youtubeId: ''
+    youtubeId: 'oIIug614Hig'
   },
   {
     id: 215,
     albumId: 14,
     name: 'Cold Heart',
     singer: 'Bhaskar vs Gabriel Boni feat. Layna',
-    youtubeId: ''
+    youtubeId: 'zCShlmAY3ow'
   },
   {
     id: 216,
     albumId: 14,
     name: 'Wicked Games',
     singer: 'Vee Groove feat. Luciana Gaspar',
-    youtubeId: ''
+    youtubeId: 'iBf5rLnRrG0'
   },
   {
     id: 217,
     albumId: 14,
     name: 'Paradise',
     singer: 'Kenshin & Mojjo feat. Marcelo Braga',
-    youtubeId: ''
+    youtubeId: 'YkAHk4muUU8'
   },
   {
     id: 218,
     albumId: 14,
     name: 'Found U',
     singer: 'Dimmi feat. Zeeba',
-    youtubeId: ''
+    youtubeId: 'ZisCLmKB6Uk'
   },
   {
     id: 219,
     albumId: 14,
     name: 'In My Soul',
     singer: 'WAO feat. Kamatos',
-    youtubeId: ''
+    youtubeId: '4v4_xpFuKO8'
   },
   {
     id: 220,
     albumId: 14,
     name: "I'm Not Dreaming",
     singer: 'D.I.B. feat. Sam Alves',
-    youtubeId: ''
+    youtubeId: '7fL2fojBZ5c'
   },
   {
     id: 221,
     albumId: 14,
     name: 'She Says',
     singer: 'Nato Medrado',
-    youtubeId: ''
+    youtubeId: 'hneDTNSF1Xc'
   },
   {
     id: 222,

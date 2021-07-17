@@ -71,42 +71,42 @@ export default [
   },
   {
     id: 11,
-    name: 'Summer Eletrohits 11 (2015)',
+    name: 'Summer Eletrohits 11',
     thumb:
       'https://res.cloudinary.com/viniciushvc/image/upload/v1621562469/summer-eletrohits/11_yary4z.jpg',
     releaseDate: '2015-01-01T02:00:00.000Z'
   },
   {
     id: 12,
-    name: 'Summer Eletrohits 12 - (2016)',
+    name: 'Summer Eletrohits 12',
     thumb:
       'https://res.cloudinary.com/viniciushvc/image/upload/v1621562469/summer-eletrohits/12_icx47c.jpg',
     releaseDate: '2015-12-01T02:00:00.000Z'
   },
   {
     id: 13,
-    name: 'Summer Eletrohits 13 (2017)',
+    name: 'Summer Eletrohits 13',
     thumb:
       'https://res.cloudinary.com/viniciushvc/image/upload/v1621562469/summer-eletrohits/13_dpj3y0.jpg',
     releaseDate: '2017-01-01T02:00:00.000Z'
   },
   {
     id: 14,
-    name: 'Summer Eletrohits 14 (2018)',
+    name: 'Summer Eletrohits 14',
     thumb:
       'https://res.cloudinary.com/viniciushvc/image/upload/v1621562469/summer-eletrohits/14_elc3cn.jpg',
     releaseDate: '2018-02-01T02:00:00.000Z'
   },
   {
     id: 15,
-    name: 'Summer Eletrohits 15 (2019)',
+    name: 'Summer Eletrohits 15',
     thumb:
       'https://res.cloudinary.com/viniciushvc/image/upload/v1621562469/summer-eletrohits/15_hqftjx.jpg',
     releaseDate: '2019-02-01T02:00:00.000Z'
   },
   {
     id: 16,
-    name: 'Summer Eletrohits 16 (2020)',
+    name: 'Summer Eletrohits 16',
     thumb:
       'https://res.cloudinary.com/viniciushvc/image/upload/v1621562469/summer-eletrohits/16_j0ujrj.jpg',
     releaseDate: '2020-01-01T02:00:00.000Z'

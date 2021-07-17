@@ -1257,98 +1257,98 @@ export default [
     albumId: 12,
     name: 'Blame',
     singer: 'Calvin Harris feat. John Newman',
-    youtubeId: ''
+    youtubeId: '4Auq31UscV4'
   },
   {
     id: 181,
     albumId: 12,
     name: 'Tremor',
     singer: 'Dimitri Vegas & Like Mike feat. Martin Garrix',
-    youtubeId: ''
+    youtubeId: 'WvFjpXIGcj4'
   },
   {
     id: 182,
     albumId: 12,
     name: 'Intoxicated',
     singer: 'Martin Solveig vs. GTA',
-    youtubeId: ''
+    youtubeId: 'diw3ZLcalUI'
   },
   {
     id: 183,
     albumId: 12,
     name: 'Cheerleader (Felix Jaehn remix)',
     singer: 'Omi',
-    youtubeId: ''
+    youtubeId: 'NYVWj5cs_P8'
   },
   {
     id: 184,
     albumId: 12,
     name: 'Runaway (U & I)',
     singer: 'Galantis',
-    youtubeId: ''
+    youtubeId: 'yPGGUhUXWrw'
   },
   {
     id: 185,
     albumId: 12,
     name: "Can't Stop Playing",
     singer: 'Dr. Kucho! & Gregor Salto',
-    youtubeId: ''
+    youtubeId: '9sadCdOfa6o'
   },
   {
     id: 186,
     albumId: 12,
     name: 'Sally',
     singer: 'Hardwell feat. Harrison',
-    youtubeId: ''
+    youtubeId: '12AFWW47r_w'
   },
   {
     id: 187,
     albumId: 12,
     name: 'Gold Skies (Tiësto Remix)',
     singer: 'Sander Van Doorn, Martin Garrix & DVBBS feat. Alessia',
-    youtubeId: ''
+    youtubeId: 'x6hkZ1r420Y'
   },
   {
     id: 188,
     albumId: 12,
     name: 'Bounce Generation',
     singer: 'TJR & VINAI',
-    youtubeId: ''
+    youtubeId: 'PWBwA75SXmI'
   },
   {
     id: 189,
     albumId: 12,
     name: 'Prayer in C',
     singer: 'Lilly Wood & The Prick and Robin Schulz',
-    youtubeId: ''
+    youtubeId: 'tZUVgYxSlGs'
   },
   {
     id: 190,
     albumId: 12,
     name: 'Waves',
     singer: 'Mr. Probz',
-    youtubeId: ''
+    youtubeId: 'zjBbi6AFG3I'
   },
   {
     id: 191,
     albumId: 12,
     name: 'Sweets (Soda Pop)',
     singer: 'Fox Stevenson',
-    youtubeId: ''
+    youtubeId: '3PApJ5XekBM'
   },
   {
     id: 192,
     albumId: 12,
     name: 'The Night',
     singer: '3LAU & Nom de Strip feat. Estelle',
-    youtubeId: ''
+    youtubeId: 'ZFGNx7T_qTw'
   },
   {
     id: 193,
     albumId: 12,
     name: 'Virus (How About Now)',
     singer: 'Martin Garrix & MOTi',
-    youtubeId: ''
+    youtubeId: 'Hr5F8I_OqE8'
   },
   {
     id: 194,

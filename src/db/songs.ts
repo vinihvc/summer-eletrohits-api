@@ -1355,98 +1355,98 @@ export default [
     albumId: 13,
     name: "Don't Let Me Down",
     singer: 'The Chainsmokers feat. Daya',
-    youtubeId: ''
+    youtubeId: 'Y2rtFgMqK1A'
   },
   {
     id: 195,
     albumId: 13,
     name: 'In the Name of Love',
     singer: 'Martin Garrix feat. Bebe Rexha',
-    youtubeId: ''
+    youtubeId: '-URUQz7MkeY'
   },
   {
     id: 196,
     albumId: 13,
     name: 'Perfect Strangers',
     singer: 'Jonas Blue feat. JP Cooper',
-    youtubeId: ''
+    youtubeId: '_RgIafMSeIY'
   },
   {
     id: 197,
     albumId: 13,
     name: 'Give It All Up',
     singer: 'WAO feat. Mikkel Solnado',
-    youtubeId: ''
+    youtubeId: 'KDPbWr6jw0o'
   },
   {
     id: 198,
     albumId: 13,
     name: 'Young Again',
     singer: 'Hardwell feat. Chris Jones',
-    youtubeId: ''
+    youtubeId: 'zvbDWKnAMl8'
   },
   {
     id: 199,
     albumId: 13,
     name: 'Paradise',
     singer: 'Benny Benassi & Chris Brown',
-    youtubeId: ''
+    youtubeId: 'AhtYBVYC8BY'
   },
   {
     id: 200,
     albumId: 13,
     name: '7 Years',
     singer: 'Kiwi Bird',
-    youtubeId: ''
+    youtubeId: 'J1qkUv8cHTk'
   },
   {
     id: 201,
     albumId: 13,
     name: 'The Ocean',
     singer: 'Mike Perry feat. Shy Martin',
-    youtubeId: ''
+    youtubeId: '0T74nuJ0Pgk'
   },
   {
     id: 202,
     albumId: 13,
     name: 'Fast Car',
     singer: 'NLKD',
-    youtubeId: ''
+    youtubeId: 's6IeVVMvP6k'
   },
   {
     id: 203,
     albumId: 13,
     name: 'She Knows',
     singer: 'Elekfantz',
-    youtubeId: ''
+    youtubeId: 'y47ZR6p-7iw'
   },
   {
     id: 204,
     albumId: 13,
     name: 'Here Without You',
     singer: 'The Squadz',
-    youtubeId: ''
+    youtubeId: 'aAu3t3b43To'
   },
   {
     id: 205,
     albumId: 13,
     name: 'Nightlife',
     singer: 'D.I.B feat. Nathan Brumley',
-    youtubeId: ''
+    youtubeId: 'L0U-Zn1MceY'
   },
   {
     id: 206,
     albumId: 13,
     name: 'Turn It Up',
     singer: 'Naza Brothers',
-    youtubeId: ''
+    youtubeId: 'Ak46UUzdneU'
   },
   {
     id: 207,
     albumId: 13,
     name: 'Troy',
     singer: 'Ftampa & WAO',
-    youtubeId: ''
+    youtubeId: 'AouJJj9Gm7I'
   },
   {
     id: 208,

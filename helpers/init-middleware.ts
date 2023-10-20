@@ -16,8 +16,8 @@ function initMiddleware(middleware: any) {
 
 const cors = initMiddleware(
   Cors({
-    methods: ['GET']
-  })
+    methods: ['GET'],
+  }),
 )
 
 export default cors

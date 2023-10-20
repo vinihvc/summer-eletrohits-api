@@ -1,8 +1,6 @@
 # Summer Eletrohits API
 
-## Working in progress
-
-API que lista todas os albuns e músicas de todas a edições do Summer Eltrohits
+Lista de todas as músicas e albuns do Summer Eletrohits
 
  * [Listar todos os álbuns](https://summer-eletrohits-api.vercel.app/api/albums): `GET api/albums`
  * [Listar todas as músicas de um álbum](https://summer-eletrohits-api.vercel.app/api/albums/1): `GET api/albums/:id`
@@ -31,5 +29,3 @@ API que lista todas os albuns e músicas de todas a edições do Summer Eltrohit
       order: number
     }
   ```
-
-Sinta-se a vontade em me enviar um PR ;)

@@ -7,7 +7,7 @@ Lista de todas as músicas e albuns do Summer Eletrohits
  * [Listar todas as músicas](https://summer-eletrohits-api.vercel.app/api/songs): `GET api/songs`
  * [Listar todas as músicas de um álbum](https://summer-eletrohits-api.vercel.app/api/songs/10): `GET api/songs/:id`
 
- #### Estrutura do álbum:
+ #### Album
   ```javascript
     {
       id: number
@@ -18,7 +18,7 @@ Lista de todas as músicas e albuns do Summer Eletrohits
     }
   ```
 
-   #### Estrutura da música:
+   #### Musica
   ```javascript
     {
       id: number

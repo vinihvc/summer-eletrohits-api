@@ -3,6 +3,7 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import cors from '@/helpers/init-middleware'
 
 import { SONGS } from '@/db/songs'
+import { SongType } from '@/types/song'
 
 const getSongs = async (
   req: NextApiRequest,

@@ -1,5 +1,7 @@
-type AlbumType = {
-  id: number
+import { SongType } from './song'
+
+export type AlbumType = {
+  id: string
   name: string
   thumb: string
   releaseDate: string

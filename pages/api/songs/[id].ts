@@ -3,22 +3,23 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import cors from '@/helpers/init-middleware'
 
 import { SONGS } from '@/db/songs'
+import { SongType } from '@/types/song'
 
 const getSong = async (
   req: NextApiRequest,
-  res: NextApiResponse<SongType[]>,
+  res: NextApiResponse<SongType | { message: string }>,
 ) => {
   await cors(req, res)
 
-  const id = Number(req.query.id)
+  const id = req.query.id
 
-  const findSongs = SONGS.filter((item) => item.albumId === id)
+  const song = SONGS.find((item) => item.id === id)
 
-  if (!findSongs) {
+  if (!song) {
     return res.status(404).json({ message: 'Song not found' })
   }
 
-  res.status(200).json(findSongs)
+  res.status(200).json(song)
 }
 
 export default getSong

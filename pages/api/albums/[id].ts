@@ -4,24 +4,29 @@ import cors from '@/helpers/init-middleware'
 
 import { ALBUMS } from '@/db/albums'
 import { SONGS } from '@/db/songs'
+import { AlbumType } from '@/types/album'
 
 const getAlbum = async (
   req: NextApiRequest,
-  res: NextApiResponse<AlbumType>,
+  res: NextApiResponse<AlbumType | { message: string }>,
 ) => {
   await cors(req, res)
 
-  const id = Number(req.query.id)
+  const id = req.query.id as string
 
-  const findAlbum = ALBUMS.find((item) => item.id === id) as AlbumType
+  const album = ALBUMS.find((item) => item.id === id)
 
-  const findSongs = SONGS.filter((item) => item.albumId === id)
-
-  if (!findAlbum) {
+  if (!album) {
     return res.status(404).json({ message: 'Album not found' })
   }
 
-  res.status(200).json({ ...findAlbum, songs: findSongs })
+  const songs = SONGS.filter((item) => item.albumId === id)
+
+  if (!songs) {
+    return res.status(404).json({ message: 'Songs not found' })
+  }
+
+  res.status(200).json({ ...album, songs })
 }
 
 export default getAlbum

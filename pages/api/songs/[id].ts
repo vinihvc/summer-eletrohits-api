@@ -14,6 +14,10 @@ const getSong = async (
 
   const findSongs = SONGS.filter((item) => item.albumId === id)
 
+  if (!findSongs) {
+    return res.status(404).json({ message: 'Song not found' })
+  }
+
   res.status(200).json(findSongs)
 }
 

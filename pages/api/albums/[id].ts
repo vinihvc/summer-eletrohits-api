@@ -4,7 +4,7 @@ import cors from '@/helpers/init-middleware'
 
 import { ALBUMS } from '@/db/albums'
 import { SONGS } from '@/db/songs'
-import { AlbumType } from '@/types/album'
+import type { AlbumType } from '@/types/album'
 
 const getAlbum = async (
   req: NextApiRequest,

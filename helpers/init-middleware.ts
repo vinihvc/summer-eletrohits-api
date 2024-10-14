@@ -1,6 +1,6 @@
 import Cors from 'cors'
 
-import { NextApiRequest, NextApiResponse } from 'next'
+import type { NextApiRequest, NextApiResponse } from 'next'
 
 function initMiddleware(middleware: any) {
   return (req: NextApiRequest, res: NextApiResponse) =>

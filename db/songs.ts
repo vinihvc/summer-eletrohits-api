@@ -1,4 +1,4 @@
-import { SongType } from '@/types/song'
+import type { SongType } from '@/types/song'
 
 export const SONGS: SongType[] = [
   {

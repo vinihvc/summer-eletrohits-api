@@ -1,4 +1,4 @@
-import { AlbumType } from '@/types/album'
+import type { AlbumType } from '@/types/album'
 
 export const ALBUMS: AlbumType[] = [
   {

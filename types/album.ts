@@ -1,4 +1,4 @@
-import { SongType } from './song'
+import type { SongType } from './song'
 
 export type AlbumType = {
   id: string
